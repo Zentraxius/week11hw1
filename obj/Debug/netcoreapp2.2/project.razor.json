@@ -2971,6 +2971,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\zentr\\Desktop\\Epicodus\\week10\\todolistc#\\ToDoList\\Views\\Items\\AddCategory.cshtml",
+      "TargetPath": "Views\\Items\\AddCategory.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\zentr\\Desktop\\Epicodus\\week10\\todolistc#\\ToDoList\\Views\\Categories\\Delete.cshtml",
       "TargetPath": "Views\\Categories\\Delete.cshtml",
       "FileKind": "mvc"
